@@ -1,0 +1,5 @@
+name: CustomRecipe
+version: @version@
+main: me.tropicalshadow.customrecipe.CustomRecipe
+api-version: 1.16
+authors: [ TropicalShadow ]
